@@ -10,10 +10,7 @@ Nombre de personnes dans le groupe : 4
 -----------------------------------------------------------------------------------------------------------------
 Objectif du projet : Développement des compétences relationnelles et l’autonomie dans le travail
 -----------------------------------------------------------------------------------------------------------------
-Compétences visées : Aptitudes à synthétiser l’information écrite et sa présentation orale
-Maitrise de la recherche documentaire
-Aptitudes à la synthèse des compétences techniques acquises
-
+Compétences visées : Aptitudes à synthétiser l’information écrite et sa présentation orale.Maitrise de la recherche documentaire.Aptitudes à la synthèse des compétences techniques acquises
 -----------------------------------------------------------------------------------------------------------------
 Langages et technologies utilisés : HTML5 CSS3
 -----------------------------------------------------------------------------------------------------------------
